@@ -1,1 +1,1 @@
-# protest-project
+# publishing-demo

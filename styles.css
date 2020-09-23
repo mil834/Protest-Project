@@ -1,0 +1,23 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #40E315
+}
+
+figcaption {
+    color: #9CA1A4
+}
+
+font-family: 'Open Sans', sans-serif;
+
+h1 {
+    padding: 20px;
+}
+
+p {
+    font-size: 1em
+}
+
+h6 {
+    background-color: #16B9F2
+}
